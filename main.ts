@@ -18,7 +18,7 @@ function main() : void
         console.log(result);
 
     } else {
-        console.log('\nEntrada invalida!');
+        console.log('\nEntrada invalida!!!');
         main();
     }
 
